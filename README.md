@@ -1,6 +1,6 @@
 
 NovaPay 🚀
-NovaPay is a production-ready, invoicing system built on the Stellar network. It enables freelancers and small businesses to issue professional invoices and receive payments in USDC, ensuring fast transactions and minimal fees across borders.
+NovaPay is an invoicing system built on the Stellar network. It enables freelancers and small businesses to issue professional invoices and receive payments in USDC, ensuring fast transactions and minimal fees across borders.
 
 🛠 Tech Stack
 Backend: Node.js + NestJS (Modular Architecture)
